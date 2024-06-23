@@ -2,7 +2,7 @@
 
 namespace database;
 use PDO;
-USE PDOException;
+use PDOException;
 
 class SQLSRVConnector {
     private static $instance;
